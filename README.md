@@ -1,10 +1,23 @@
 # 🎬 Recomendador de Filmes
 
-Um aplicativo simples feito em Streamlit que recomenda filmes parecidos usando TF-IDF + similaridade de cosseno.
+Um aplicativo simples de recomendação de filmes baseado em similaridade de texto usando TF-IDF + cosine similarity.
 
-### Como rodar localmente
+### Testando o app
 
-```bash
-pip install -r requirements.txt
-python -c "import nltk; nltk.download('stopwords')"
-streamlit run app.py
+Acessar Recomendador de Filmes: (https://recomendador-filmes.streamlit.app)
+
+*(Basta escolher um filme e clicar em "Ver recomendações". As sugestões mudam conforme o filme selecionado.)*
+
+### Tecnologias utilizadas
+
+- **Streamlit** – Interface web interativa
+- **scikit-learn** – Vetorização TF-IDF e cálculo de similaridade
+- **NLTK** – Stopwords em português
+- **Pandas** – Manipulação dos dados de filmes
+
+### Sobre o projeto
+
+Sistema básico de recomendação de conteúdo usando processamento de linguagem natural.  
+Projeto desenvolvido para prática de Data Science e deploy em nuvem.
+
+---
