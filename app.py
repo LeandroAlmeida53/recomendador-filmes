@@ -4,6 +4,12 @@ import nltk
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import os
+
+# Baixa stopwords automaticamente se não existir (importante pro Streamlit Cloud)
+nltk_data_path = os.path.join(os.path.expanduser("~"), "nltk_data")
+if not os.path.exists(os.path.join(nltk_data_path, "corpora", "stopwords")):
+    nltk.download('stopwords', quiet=True)
 
 st.set_page_config(page_title="Recomenda Filmes", layout="centered")
 st.title("🎬 Recomendador de Filmes")
@@ -43,16 +49,10 @@ tfidf_mat = vectorizer.fit_transform(df['descricao'])
 sim_matrix = cosine_similarity(tfidf_mat)
 
 def get_recomendacoes(titulo_filme):
-    # Pega o índice do filme
     idx = df.index[df['titulo'] == titulo_filme].tolist()[0]
-    
-    # Similaridades
     scores = list(enumerate(sim_matrix[idx]))
     scores.sort(key=lambda x: x[1], reverse=True)
-    
-    # Pula o primeiro e pega os 5 mais parecidos
     top5_indices = [x[0] for x in scores[1:6]]
-    
     return df['titulo'].iloc[top5_indices].values
 
 
@@ -66,8 +66,7 @@ if st.button("Ver recomendações"):
         try:
             recomendados = get_recomendacoes(filme)
             st.subheader(f"Quem curte {filme} também gosta de:")
-            
             for rec in recomendados:
                 st.markdown(f"→ {rec}")
         except Exception:
-            st.error("Deu algum problema na busca. Tente outro filme.")
+            st.error("Deu algum problema na busca. Tenta outro filme?")
