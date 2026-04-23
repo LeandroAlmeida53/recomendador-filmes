@@ -61,6 +61,20 @@
     "ano": "2026"
   },
   {
+    "titulo": "Cara de Um, Focinho de Outro",
+    "sinopse": "Mabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Ficção científica",
+      "Comédia",
+      "Aventura"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+    "nota": 7.6,
+    "ano": "2026"
+  },
+  {
     "titulo": "Destruição Final 2",
     "sinopse": "Tendo encontrado a segurança do bunker da Groenlândia depois que o cometa Clarke dizimou a Terra, a família Garrity deve agora arriscar tudo para embarcar em uma jornada angustiante através do deserto da Europa para encontrar um novo lar.",
     "generos": [
@@ -73,6 +87,17 @@
     "ano": "2026"
   },
   {
+    "titulo": "Ataque Brutal",
+    "sinopse": "Em meio a um furacão devastador, uma comunidade costeira luta pela sobrevivência, assolada não apenas pelas forças destrutivas da natureza, mas também pela ameaça implacável de tubarões. Lutando contra a chuva torrencial, ruas cobertas de destroços e a escuridão avassaladora, eles precisam se unir para repelir esses predadores mortais se quiserem ter alguma chance de sobreviver à tempestade.",
+    "generos": [
+      "Terror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+    "nota": 6.0,
+    "ano": "2026"
+  },
+  {
     "titulo": "Caminhos do Crime",
     "sinopse": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação.",
     "generos": [
@@ -81,6 +106,18 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
     "nota": 7.0,
+    "ano": "2026"
+  },
+  {
+    "titulo": "Um Cabra Bom de Bola",
+    "sinopse": "Uma pequena cabra com grandes sonhos recebe uma oportunidade única na vida de se juntar aos profissionais e jogar berrobol, um esporte de alta intensidade, misto e de contato total, dominado pelos animais mais rápidos e ferozes do mundo.",
+    "generos": [
+      "Animação",
+      "Comédia",
+      "Família"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
+    "nota": 7.9,
     "ano": "2026"
   },
   {
@@ -147,6 +184,18 @@
     "ano": "2006"
   },
   {
+    "titulo": "Terror em Silent Hill: Regresso Para o Inferno",
+    "sinopse": "Quando uma carta misteriosa chama James de volta a Silent Hill em busca de seu verdadeiro amor, ele encontra uma cidade antes reconhecível, transformada por um mal desconhecido. À medida que James se aprofunda na escuridão, ele encontra figuras aterrorizantes, tanto familiares quanto novas, e começa a questionar sua própria sanidade enquanto luta para entender a realidade e se manter firme por tempo suficiente para salvar seu amor perdido.",
+    "generos": [
+      "Mistério",
+      "Drama",
+      "Terror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
+    "nota": 5.2,
+    "ano": "2026"
+  },
+  {
     "titulo": "A Sombra do Perigo",
     "sinopse": "Um policial aposentado, especialista em rastreamento, é convocado de volta à ativa em Macau para desmantelar uma gangue de ladrões de alta tecnologia, colocando suas táticas tradicionais contra a tecnologia avançada, num jogo de gato e rato com uma equipe de jovens detetives de elite.",
     "generos": [
@@ -158,6 +207,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/wqdHjQ1UpfQgS9jN9So5PLNTwoX.jpg",
     "nota": 7.2,
     "ano": "2025"
+  },
+  {
+    "titulo": "O Som da Morte",
+    "sinopse": "Um grupo de estudantes disfuncionais se depara com um Apito da Morte asteca amaldiçoado. Logo, eles descobrem que usar o objeto produz um som aterrorizante capaz de prever suas futuras mortes.",
+    "generos": [
+      "Terror",
+      "Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1tX11KQzujSDXdszFNRvQbbNi72.jpg",
+    "nota": 6.0,
+    "ano": "2026"
   },
   {
     "titulo": "A Empregada",
@@ -194,6 +254,19 @@
     "ano": "2025"
   },
   {
+    "titulo": "Lindas e Letais",
+    "sinopse": "Um thriller repleto de ação no qual cinco bailarinas, perdidas em uma floresta remota a caminho de uma competição de dança, encontram abrigo em uma pousada sinistra à beira da estrada, administrada por Devora Kasimer, e precisam usar seu treinamento de elite como arma para sobreviver.",
+    "generos": [
+      "Música",
+      "Thriller",
+      "Ação",
+      "Terror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3PdG3VE95F7fcawJrAfm9bdUvMy.jpg",
+    "nota": 6.8,
+    "ano": "2026"
+  },
+  {
     "titulo": "Anaconda",
     "sinopse": "Uma crise de meia-idade inspira Doug e Griff a irem até a floresta amazônica para refazer o filme favorito da juventude, mas tudo muda quando uma anaconda gigante de verdade aparece, transformando o cenário comicamente caótico em uma situação mortal. O filme que eles estão morrendo de vontade de fazer? Pode acabar matando-os.",
     "generos": [
@@ -218,6 +291,18 @@
     "ano": "2021"
   },
   {
+    "titulo": "A Noiva!",
+    "sinopse": "Na década de 1930, Frankenstein viaja a Chicago em busca do Dr. Euphronius para ajudá-lo a criar uma companheira. Juntos, eles revivem uma jovem assassinada, dando origem à Noiva, uma criação que supera todas as expectativas. Porém, sua existência desencadeia um romance explosivo, atrai a atenção da polícia e dá início a um movimento social intenso e radical.",
+    "generos": [
+      "Ficção científica",
+      "Terror",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
+    "nota": 6.2,
+    "ano": "2026"
+  },
+  {
     "titulo": "Triplo X",
     "sinopse": "O ex-atleta de esportes extremos Xander \"XXX\" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.",
     "generos": [
@@ -240,6 +325,18 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w500/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
     "nota": 6.5,
+    "ano": "2026"
+  },
+  {
+    "titulo": "Mike & Nick & Nick & Alice",
+    "sinopse": "Uma comédia de ação hilária e estilizada, para maiores de 18 anos, sobre dois gângsteres e a mulher que eles amam, tentando sobreviver à noite mais perigosa de suas vidas. Como se isso não bastasse, tem um ingrediente inusitado na mistura: uma máquina do tempo.",
+    "generos": [
+      "Comédia",
+      "Ficção científica",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+    "nota": 6.7,
     "ano": "2026"
   },
   {
@@ -277,6 +374,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",
     "nota": 7.7,
     "ano": "2025"
+  },
+  {
+    "titulo": "Casamento Sangrento: A Viúva",
+    "sinopse": "A noiva retorna em uma nova e sinistra rodada do tradicional jogo de esconde-esconde, agora com elementos sobrenaturais e demoníacos.",
+    "generos": [
+      "Terror",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/l08o8b3NAPxDzJca9ZF0fdQvbaz.jpg",
+    "nota": 6.9,
+    "ano": "2026"
   },
   {
     "titulo": "Extermínio: O Templo dos Ossos",
@@ -325,6 +433,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/8XLNDeumvz0cXa6sntZJ6p4zfLb.jpg",
     "nota": 7.2,
     "ano": "2026"
+  },
+  {
+    "titulo": "Depois que o Pornô Acaba 2",
+    "sinopse": "Depois que o Pornô Acaba 2 retoma o documentário anterior de onde parou, e não só volta no tempo para se encontrar com as estrelas mais antigas da história dos filmes pornográficos, mas também vai a fundo com alguns dos aposentados mais recentes e se aproxima de suas experiências de vida depois da pornografia. Aprofunda-se nos estigmas atuais da sociedade, como raça e misoginia, e na realidade de redução de oportunidades para estas antigas estrelas de capas de caixas de VHS. Para alguns, suas carreiras no entretenimento adulto são aceitas com orgulho e sem arrependimentos. Na verdade, elas parecem ter sido o caminho para a felicidade atual e paz interior. Para outros, no entanto, uma carreira na pornografia revelou-se como um canal para certo desespero, enquanto lutam para encontrar uma forma para enterrar o passado e emergir com uma nova carreira ou vocação.",
+    "generos": [
+      "Documentário"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
+    "nota": 5.3,
+    "ano": "2017"
   },
   {
     "titulo": "Truque de Mestre: O 3° Ato",
@@ -408,6 +526,30 @@
     "poster": "https://image.tmdb.org/t/p/w500/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg",
     "nota": 8.0,
     "ano": "2025"
+  },
+  {
+    "titulo": "O Drama",
+    "sinopse": "Profundamente apaixonados e em meio aos preparativos finais para o grande dia do casamento, o casal tem sua felicidade ameaçada quando vêm à tona segredos que jamais poderiam imaginar.",
+    "generos": [
+      "Romance",
+      "Comédia",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg",
+    "nota": 7.0,
+    "ano": "2026"
+  },
+  {
+    "titulo": "Boa Sorte, Divirta-se, Não Morra",
+    "sinopse": "Um homem vindo do futuro chega a uma lanchonete em Los Angeles, onde precisa recrutar a combinação exata de clientes insatisfeitos para acompanhá-lo em uma missão de uma noite e seis quarteirões para salvar o mundo da ameaça terminal de uma inteligência artificial descontrolada.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ybXcKzJr0nuRZaLB74ujITNPNeH.jpg",
+    "nota": 6.9,
+    "ano": "2026"
   },
   {
     "titulo": "Minha Culpa",
@@ -571,6 +713,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/aGK0x9RblIUqkLp6xKYMSttlqMn.jpg",
     "nota": 7.4,
     "ano": "2000"
+  },
+  {
+    "titulo": "Sexo Com Amor",
+    "sinopse": "Luísa (Sigrid Alegría) é uma professora que tem uma vida sexual cheia de surpresas, vivendo no momento um ardente romance com Jorge (Patricio Contreras), pai de um de seus alunos. Precisando discutir em sala de aula o tema educação sexual, Luísa passa a reanalisar seus conceitos e percebe que os pais de seus alunos têm as mesmas dúvidas que ela.",
+    "generos": [
+      "Comédia",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/s0pmacLZ9GOdHJqBv5sCltqwmqL.jpg",
+    "nota": 6.5,
+    "ano": "2003"
   },
   {
     "titulo": "Parasita",
@@ -751,6 +904,18 @@
     "ano": "1999"
   },
   {
+    "titulo": "Osíris",
+    "sinopse": "Comandos das Forças Especiais são sequestrados em plena operação por uma nave espacial misteriosa e, ao despertar, eles se veem vítimas de uma raça alienígena implacável em uma luta pela sobrevivência.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Terror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zV73BurKh944kFpjna1QTF43gPl.jpg",
+    "nota": 6.0,
+    "ano": "2025"
+  },
+  {
     "titulo": "A Viagem de Chihiro",
     "sinopse": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los.",
     "generos": [
@@ -786,6 +951,31 @@
     "poster": "https://image.tmdb.org/t/p/w500/tj1XhCQ2Rw2sT2o7lIdqPIYvjsx.jpg",
     "nota": 8.3,
     "ano": "2025"
+  },
+  {
+    "titulo": "Bob Esponja: Em Busca da Calça Quadrada",
+    "sinopse": "Bob Esponja e seus amigos da Fenda do Bikini embarcam na maior aventura de suas vidas. Ao tentar provar que é grandão, ele acaba invocando o temido pirata fantasma Holandês Voador, que arrasta Bob Esponja e Patrick para uma jornada caótica no submundo. Enfrentando desafios enormes e com uma equipe de resgate em seu encalço, Bob Esponja descobre que a verdadeira coragem aparece quando os amigos encaram o desconhecido juntos.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Comédia",
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/obDYToEfPFNMKW6x0eamCrjTMzK.jpg",
+    "nota": 6.8,
+    "ano": "2025"
+  },
+  {
+    "titulo": "A Iniciação",
+    "sinopse": "O filme mostra a iniciação sexual de Roger um menino de 16 anos que passa férias em uma mansão cheia de mulheres.",
+    "generos": [
+      "Comédia",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jp8LYiQzEoUuMqu2lGSZZ1A4Nsf.jpg",
+    "nota": 6.0,
+    "ano": "1986"
   },
   {
     "titulo": "Homem-Aranha: Através do Aranhaverso",
@@ -834,6 +1024,17 @@
     "ano": "2025"
   },
   {
+    "titulo": "Exit 8",
+    "sinopse": "Um homem preso em uma passagem infinita de metrô parte em busca da Saída 8. As regras de sua jornada são simples: não ignore nada fora do comum; se descobrir alguma anomalia, volte imediatamente; caso contrário, continue; em seguida, saia pela Saída 8. Mas, mesmo um único descuido o enviará de volta ao início. Será que ele alcançará seu objetivo e escapará deste corredor infinito?",
+    "generos": [
+      "Terror",
+      "Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/naszJRWpzgbrR9vdifVoQ9IpNqW.jpg",
+    "nota": 6.6,
+    "ano": "2025"
+  },
+  {
     "titulo": "Moana 2",
     "sinopse": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
     "generos": [
@@ -857,6 +1058,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/vWMXRFvpxxs5p0IKZdqWph10jIn.jpg",
     "nota": 7.1,
     "ano": "2019"
+  },
+  {
+    "titulo": "Manual Prático da Vingança Lucrativa",
+    "sinopse": "Deserdado desde o nascimento por sua família bilionária, Becket Redfellow está determinado a recuperar a fortuna que sempre acreditou ser sua por direito. Para isso, ele irá orquestrar uma série de \"acidentes\" engenhosamente planejados, até que não reste nenhum herdeiro de pé.",
+    "generos": [
+      "Comédia",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg",
+    "nota": 6.9,
+    "ano": "2026"
   },
   {
     "titulo": "Homem de Ferro 2",
@@ -1119,6 +1331,20 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w500/12H82Xrr2ijDF0lJWUarqGFV7bC.jpg",
     "nota": 6.7,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Nos Seus Sonhos",
+    "sinopse": "Um casal de irmãos viaja pela paisagem absurda dos próprios sonhos para pedir ao Sandman que realize seu desejo de uma família perfeita.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Comédia",
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zHPgL2f9nZaYUkOXZNsV1Nq9Tt1.jpg",
+    "nota": 7.0,
     "ano": "2025"
   },
   {
@@ -1431,5 +1657,735 @@
     "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
     "nota": 8.1,
     "ano": "2024"
+  },
+  {
+    "titulo": "O Castelo Animado",
+    "sinopse": "Sophie, uma jovem chapeleira, é transformada em uma mulher idosa por uma bruxa que entra em sua loja e a amaldiçoa. Ela encontra um mago chamado Howl e se vê envolvida em sua resistência em lutar pelo rei.",
+    "generos": [
+      "Fantasia",
+      "Animação",
+      "Aventura"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1hTfaEWktMJPxCk5nZNtK7F86C9.jpg",
+    "nota": 8.4,
+    "ano": "2004"
+  },
+  {
+    "titulo": "Nuremberg",
+    "sinopse": "Um psiquiatra dos Estados Unidos é designado para examinar 22 oficiais nazistas que aguardam julgamento por crimes de guerra. À medida que ele se aproxima de um de seus pacientes e tenta desvendar a essência do mal, ele se vê envolvido em uma jornada sem volta.",
+    "generos": [
+      "História",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/saPapyxafNZxIPqYa2xm4QkaxpE.jpg",
+    "nota": 7.4,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Operação Big Hero",
+    "sinopse": "O grande robô inflável está sempre a postos para cuidar de Hiro Hamada. Quando algo devastador assola a cidade, o menino prodígio, seus amigos e o robô formam um grupo de heróis para combater o mal.",
+    "generos": [
+      "Aventura",
+      "Família",
+      "Animação",
+      "Ação",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5EodFesjReSDlX1c0I5ANZijBFy.jpg",
+    "nota": 7.7,
+    "ano": "2014"
+  },
+  {
+    "titulo": "Whiplash: Em Busca da Perfeição",
+    "sinopse": "Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico.",
+    "generos": [
+      "Drama",
+      "Música",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/z693uKD7j3zcdX0zVMQPIA3cSZf.jpg",
+    "nota": 8.4,
+    "ano": "2014"
+  },
+  {
+    "titulo": "Destruição Final: O Último Refúgio",
+    "sinopse": "Quando cientistas descobrem que um cometa atingirá a Terra em poucos dias e provavelmente causará a extinção da humanidade, uma família tenta cruzar o país para chegar a sua única esperança de sobrevivência: um grupo de abrigos subterrâneos em Greenland.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/65p4M9Cdkv6YkHMmoTDMxQ8Gur8.jpg",
+    "nota": 7.1,
+    "ano": "2020"
+  },
+  {
+    "titulo": "O Rei Leão",
+    "sinopse": "Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+    "nota": 8.3,
+    "ano": "1994"
+  },
+  {
+    "titulo": "A Hora do Mal",
+    "sinopse": "Quando todas as crianças de uma mesma classe, exceto uma, somem misteriosamente, na mesma noite e exatamente ao mesmo tempo, todos da cidade começam a se questionar quem ou o que está por trás deste estranho desaparecimento.",
+    "generos": [
+      "Terror",
+      "Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/psEJSjQr6I9GSJTdW28CKC4Kffs.jpg",
+    "nota": 7.3,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Homem-Aranha: Longe de Casa",
+    "sinopse": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
+    "nota": 7.4,
+    "ano": "2019"
+  },
+  {
+    "titulo": "Resgate Implacável",
+    "sinopse": "Ele quer viver uma vida simples e ser um bom pai para sua filha. Mas quando a filha adolescente de seu chefe, Jenny, desaparece, ele é chamado para reempregar as habilidades que o tornaram uma figura lendária nas operações secretas.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1w01rEQRYvIoSs5Is9cQDJhiUel.jpg",
+    "nota": 6.7,
+    "ano": "2025"
+  },
+  {
+    "titulo": "De Volta para o Futuro",
+    "sinopse": "Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+    "generos": [
+      "Aventura",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg",
+    "nota": 8.3,
+    "ano": "1985"
+  },
+  {
+    "titulo": "Solo Leveling -Segundo Despertar-",
+    "sinopse": "Mais de uma década após o surgimento dos “portões” que ligam os mundos, despertando “caçadores” com superpoderes, o caçador mais fraco, Sung Jinwoo, encontra uma masmorra dupla e aceita uma missão misteriosa, tornando-se o único capaz de subir de nível, mudando seu destino. Uma recapitulação da primeira temporada, juntamente com uma prévia exclusiva dos dois primeiros episódios da tão esperada segunda temporada, em uma experiência teatral memorável para os fãs.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animação"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/iU1fG893IXb8wdV70D23YTJDrjR.jpg",
+    "nota": 7.1,
+    "ano": "2024"
+  },
+  {
+    "titulo": "Cinquenta Tons de Cinza",
+    "sinopse": "Anastasia Steele (Dakota Johnson) é uma estudante de literatura de 21 anos, recatada e virgem. Uma dia ela deve entrevistar para o jornal da faculdade o poderoso magnata Christian Grey (Jamie Dornan). Nasce uma complexa relação entre ambos: com a descoberta amorosa e sexual, Anastasia conhece os prazeres do sadomasoquismo, tornando-se o objeto de submissão do sádico Grey.",
+    "generos": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/t4kR6H71anOV85qzjOLlr9uVdFJ.jpg",
+    "nota": 5.9,
+    "ano": "2015"
+  },
+  {
+    "titulo": "Três Homens em Conflito",
+    "sinopse": "Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele não possui um lar, lealdade ou companhia... Até que encontra dois estrangeiros, que são tão brutos e desapegados quanto ele. Unidos pelo destino, os três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe não é uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio é concentrar-se em sua perigosa missão — e em manterem-se vivos — atravessando um país arrasado pela guerra.",
+    "generos": [
+      "Faroeste"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/n1nYQ9EX83BrixhBC1HIezzYu9O.jpg",
+    "nota": 8.5,
+    "ano": "1966"
+  },
+  {
+    "titulo": "Dhurandhar",
+    "sinopse": "No início da década de 2000, um policial se infiltra nas gangues do submundo criminoso de Karachi para desmantelar um grupo violento.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+    "nota": 7.1,
+    "ano": "2025"
+  },
+  {
+    "titulo": "O Lobo de Wall Street",
+    "sinopse": "Durante seis meses, Jordan Belfort trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna. Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a idéia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
+    "generos": [
+      "Crime",
+      "Drama",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/sIy0jXDkaMf3SDZGaWcmkC2IOl.jpg",
+    "nota": 8.0,
+    "ano": "2013"
+  },
+  {
+    "titulo": "A Substância",
+    "sinopse": "Uma estrela em declínio descobre uma substância misteriosa que lhe permite criar uma versão mais jovem e perfeita de si mesma. No entanto, o que parece ser uma solução milagrosa para recuperar sua glória logo se transforma em um pesadelo perturbador quando as consequências desta decisão começam a se manifestar de formas sombrias e irreversíveis.",
+    "generos": [
+      "Terror",
+      "Ficção científica",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+    "nota": 7.1,
+    "ano": "2024"
+  },
+  {
+    "titulo": "Harry Potter e a Câmara Secreta",
+    "sinopse": "Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem.",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
+    "nota": 7.7,
+    "ano": "2002"
+  },
+  {
+    "titulo": "Vingadores: Era de Ultron",
+    "sinopse": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
+    "nota": 7.3,
+    "ano": "2015"
+  },
+  {
+    "titulo": "Alerta Apocalipse",
+    "sinopse": "Quando um fungo altamente perigoso escapa de um laboratório secreto, Robert Quinn, um ex-agente de bioterrorismo que só queria curtir a aposentadoria em paz, é chamado de volta à ação. Ao lado de Travis e Naomi, dois jovens funcionários que definitivamente não ganham o suficiente para isso, ele precisa enfrentar uma ameaça invisível e fora de controle. Em uma corrida contra o tempo, o trio descobre que salvar o mundo dá muito mais trabalho do que parece.",
+    "generos": [
+      "Terror",
+      "Ficção científica",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
+    "nota": 6.8,
+    "ano": "2026"
+  },
+  {
+    "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+    "sinopse": "É o início do terceiro ano na escola de magia e bruxaria de Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
+    "nota": 8.0,
+    "ano": "2004"
+  },
+  {
+    "titulo": "O Telefone Preto 2",
+    "sinopse": "Quatro anos após escapar de The Grabber, Finney Blake luta com sua vida após o cativeiro. Quando sua irmã Gwen começa a receber ligações em sonhos do telefone preto e a ter visões perturbadoras de três garotos sendo perseguidos em um acampamento de inverno conhecido como Alpine Lake, os irmãos se determinam a desvendar o mistério e confrontar um assassino que se tornou mais poderoso na morte e mais significativo para eles do que qualquer um poderia imaginar.",
+    "generos": [
+      "Terror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg",
+    "nota": 6.7,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Bailarina: Do Universo de John Wick",
+    "sinopse": "Bailarina  se passa durante os eventos de ‘John Wick 3: Parabellum‘ e acompanha Eve Macarro, que está começando seu treinamento nas tradições da organização Ruska Roma para se tornar uma assassina que buscará vingança contra aqueles que destruíram sua família.",
+    "generos": [
+      "Ação",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/by5hjYJp3OJ8GW118kPeURp1rFo.jpg",
+    "nota": 7.2,
+    "ano": "2025"
+  },
+  {
+    "titulo": "O Retorno da Múmia",
+    "sinopse": "Rick e Evelyn O'Connell estão morando na Londres de 1935, onde criam o filho. Quando uma série de eventos revela o corpo de Imhotep ressuscitado, os O'Connell iniciam uma corrida desesperada para salvar o mundo do mal e resgatar o filho antes que seja tarde demais.",
+    "generos": [
+      "Aventura",
+      "Ação",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/34X3xSSriMVdHHO9EEpe8thhDCC.jpg",
+    "nota": 6.4,
+    "ano": "2001"
+  },
+  {
+    "titulo": "Cruella",
+    "sinopse": "Na Londres dos anos 70 em meio à revolução do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si através de seus designs. Ela faz amizade com uma dupla de jovens ladrões e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a atenção da Baronesa Von Hellman, uma lenda fashion que é devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revelações que farão com que Estella abrace seu lado rebelde e se torne a Cruella má, elegante e voltada para a vingança.",
+    "generos": [
+      "Comédia",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg",
+    "nota": 8.0,
+    "ano": "2021"
+  },
+  {
+    "titulo": "Beekeeper: Rede de Vingança",
+    "sinopse": "Clay está em busca de vingança e não vai parar até acabar com o sistema criminoso responsável pela morte de sua amiga. O plano brutal de Clay, um ex-agente de uma organização secreta poderosa conhecida como “Beekeepers”, ganha dimensões nacionais envolvendo governos e as instituições mais influentes do mundo. Determinado a fazer justiça com suas próprias mãos, ele está disposto a tudo e não vai poupar ninguém para concluir seu plano.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/raNfPn7DGbh1Ffwq4Y9BO1Iektv.jpg",
+    "nota": 7.2,
+    "ano": "2024"
+  },
+  {
+    "titulo": "Divertida Mente",
+    "sinopse": "Quando Riley, de 11 anos, se muda para uma nova cidade, suas Emoções - Alegria, Medo, Raiva, Nojinho e Tristeza trabalham juntas para ajudá-la na transição. Porém, uma série de eventos faz com que Alegria e Tristeza se envolvam em uma perigosa aventura que virará o mundo de Riley de cabeça para baixo.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Aventura",
+      "Drama",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg",
+    "nota": 7.9,
+    "ano": "2015"
+  },
+  {
+    "titulo": "Lilo & Stitch",
+    "sinopse": "Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
+    "generos": [
+      "Família",
+      "Ficção científica",
+      "Comédia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/m58Oxr3OZZbP2kTX2tj8TiAMLSv.jpg",
+    "nota": 7.2,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Crepúsculo",
+    "sinopse": "Isabella Swan é uma adolescente que vai morar com seu pai em uma nova cidade depois que sua mãe decide casar-se novamente. No colégio, ela fica fascinada por Edward Cullen, um garoto que esconde um segredo obscuro. Eles se apaixonam, mas Edward sabe que quanto mais avançam no relacionamento, mais ele está colocando Bella e aqueles à sua volta em perigo.",
+    "generos": [
+      "Fantasia",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/o4ki1gYHkP6IWNdwjHvI9vzfpuC.jpg",
+    "nota": 6.3,
+    "ano": "2008"
+  },
+  {
+    "titulo": "Guerra Mundial Z",
+    "sinopse": "Um vírus letal se espalha rapidamente e transforma seres humanos em zumbis. O ex-agente da ONU Gerry Lane é chamado para investigar a epidemia que está acabando com a humanidade, iniciando uma verdadeira corrida contra o tempo.",
+    "generos": [
+      "Ação",
+      "Terror",
+      "Ficção científica",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2Sdz5gGrwN92pRanlJKeUqkIjRk.jpg",
+    "nota": 6.8,
+    "ano": "2013"
+  },
+  {
+    "titulo": "O Protetor",
+    "sinopse": "O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.",
+    "generos": [
+      "Thriller",
+      "Ação",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg",
+    "nota": 7.3,
+    "ano": "2014"
+  },
+  {
+    "titulo": "As Branquelas",
+    "sinopse": "O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!",
+    "generos": [
+      "Comédia",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",
+    "nota": 6.9,
+    "ano": "2004"
+  },
+  {
+    "titulo": "Marty Supreme",
+    "sinopse": "Marty Mauser é um jovem prodígio do tênis de mesa que tem sonhos grandiosos e estilo de jogo arrojado, mas é desacreditado pelas outras pessoas. Buscando provar sua capacidade, ele faz de tudo para alcançar o reconhecimento que julga merecer.",
+    "generos": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg",
+    "nota": 7.4,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Premonição 6: Laços de Sangue",
+    "sinopse": "Atormentada por um pesadelo violento recorrente, a estudante universitária Stefanie volta para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda.",
+    "generos": [
+      "Terror",
+      "Mistério"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg",
+    "nota": 7.1,
+    "ano": "2025"
+  },
+  {
+    "titulo": "WALL-E",
+    "sinopse": "No ano 2800, num planeta Terra devastado e sem vida, depois de centenas de anos solitários a fazer aquilo para que foi construído - limpar o planeta de lixo - o pequeno robô WALL-E descobre uma nova missão na sua vida quando conhece uma moderna e brilhante robô exploradora chamada EVE. Os dois vão viajar pela galáxia e viver uma aventura emocionante e inesquecível.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qNiwJPVCO4cgiM8LVtxwPV2HxHS.jpg",
+    "nota": 8.1,
+    "ano": "2008"
+  },
+  {
+    "titulo": "O Hobbit: A Batalha dos Cinco Exércitos",
+    "sinopse": "O dragão Smaug lança sua fúria ardente contra a Cidade do Lago que fica próxima da montanha de Erebor. Bard consegue derrotá-lo, mas, rapidamente, sem a ameaça do dragão, inicia-se uma batalha pelo controle de Erebor e sua riqueza. Os anões, liderados por Thorin, adentram a montanha e estão dispostos a impedir a entrada de elfos, anões e orcs. Bilbo Bolseiro e Gandalf tentam impedir a guerra.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wRKwrfQ7p0ttrb09G3mcOSyN1pk.jpg",
+    "nota": 7.3,
+    "ano": "2014"
+  },
+  {
+    "titulo": "Tron: Ares",
+    "sinopse": "Um programa de IA altamente avançado chamado Ares (Jared Leto) que é enviado do mundo digital (A Grade) para o mundo real em uma missão perigosa, sendo o primeiro encontro da humanidade com inteligência artificial que transcende o ciberespaço, explorando temas de consciência e a linha tênue entre homem e máquina em meio a uma corrida tecnológica entre duas empresas, Dillinger e Encon",
+    "generos": [
+      "Ficção científica",
+      "Aventura",
+      "Ação"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg",
+    "nota": 6.5,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Harry Potter e as Relíquias da Morte - Parte 2",
+    "sinopse": "No final épico, a batalha entre as forças do bem e do mal no mundo da bruxaria toma proporções de uma guerra mundial. As apostas nunca foram tão altas e ninguém está a salvo. Mas é harry que pode ser convocado para fazer um derradeiro sacrifício, à medida que ele se aproxima cada vez mais do confronto final com Lorde Voldemort. Tudo termina aqui.",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",
+    "nota": 8.1,
+    "ano": "2011"
+  },
+  {
+    "titulo": "Capitão América: Guerra Civil",
+    "sinopse": "Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
+    "generos": [
+      "Aventura",
+      "Ação",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
+    "nota": 7.4,
+    "ano": "2016"
+  },
+  {
+    "titulo": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
+    "sinopse": "O jovem Peter Parker está fascinado com as habilidades que adquiriu como Homem-Aranha. Agora, ele precisa lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rSsRveZUsaFrigKibILwlpJ4wuv.jpg",
+    "nota": 6.5,
+    "ano": "2014"
+  },
+  {
+    "titulo": "Matador de Aluguel",
+    "sinopse": "Um ex lutador de UFC aceita um trabalho como segurança em uma taberna em Florida Keys, apenas para descobrir que este não é o paraíso que parecia ser.",
+    "generos": [
+      "Ação",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg",
+    "nota": 6.9,
+    "ano": "2024"
+  },
+  {
+    "titulo": "Tróia",
+    "sinopse": "Quando Páris, o príncipe de Troia, se apaixona por Helena, rainha de Esparta, o rei inicia uma guerra de anos entre os dois reinos. Para vencer, Esparta conta com Aquiles, um guerreiro lendário que comanda um exército próprio.",
+    "generos": [
+      "Guerra",
+      "Ação",
+      "História"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",
+    "nota": 7.2,
+    "ano": "2004"
+  },
+  {
+    "titulo": "A Longa Marcha: Caminhe ou Morra",
+    "sinopse": "Um grupo de adolescentes compete em uma competição anual conhecida como \"A Longa Marcha\", onde eles devem manter uma certa velocidade de caminhada ou levar um tiro.",
+    "generos": [
+      "Ficção científica",
+      "Thriller",
+      "Terror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qE0XKOHZvXtiM4aBLlTPUVZiIc5.jpg",
+    "nota": 6.9,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Garota Exemplar",
+    "sinopse": "Amy Dunne desaparece no dia do seu aniversário de casamento, deixando o marido Nick em apuros. Ele começa a agir descontroladamente, abusando das mentiras, e se torna o suspeito número um da polícia. Com o apoio da sua irmã gêmea, Margo, Nick tenta provar a sua inocência e, ao mesmo tempo, procura descobrir o que aconteceu com Amy.",
+    "generos": [
+      "Mistério",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
+    "nota": 7.9,
+    "ano": "2014"
+  },
+  {
+    "titulo": "Oldboy",
+    "sinopse": "Dae-Su é raptado e mantido em cativeiro por 15 anos num quarto de hotel, sem qualquer contato com o mundo externo. Quando ele é inexplicavelmente solto, descobre que é acusado pelo assassinato da esposa e embarca numa missão obsessiva por vingança.",
+    "generos": [
+      "Drama",
+      "Thriller",
+      "Mistério",
+      "Ação"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vHHxEpNwnHNJTPFxaSfSF0b2kBH.jpg",
+    "nota": 8.2,
+    "ano": "2003"
+  },
+  {
+    "titulo": "Os Caras Malvados 2",
+    "sinopse": "Os agora reformados Bad Guys estão tentando (muito, muito mesmo) ser bons, mas em vez disso se veem sequestrados para um assalto de alto risco e alcance mundial, arquitetado por uma nova equipe de criminosos que eles nunca imaginaram: as Bad Girls.",
+    "generos": [
+      "Família",
+      "Comédia",
+      "Crime",
+      "Aventura",
+      "Animação"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+    "nota": 7.7,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Harry Potter e as Relíquias da Morte - Parte 1",
+    "sinopse": "Harry, Ron e Hermione estão determinados em sua missão de descobrir e acabar com o segredo da imortalidade e do poder de destruição de Voldemort – os Horcruxes. Fugitivos e sozinhos, os três amigos devem apenas contar uns com os outros, agora mas do que nunca... Mas as Forças das Trevas no caminho ameaçam separá-los para sempre.",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+    "nota": 7.7,
+    "ano": "2010"
+  },
+  {
+    "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "sinopse": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.",
+    "generos": [
+      "Aventura",
+      "Fantasia",
+      "Ação"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
+    "nota": 7.8,
+    "ano": "2003"
+  },
+  {
+    "titulo": "Batman",
+    "sinopse": "Em seu segundo ano de combate ao crime, Batman descobre corrupção em Gotham City que se conecta à sua própria família enquanto enfrenta um serial killer conhecido como Charada.",
+    "generos": [
+      "Crime",
+      "Mistério",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+    "nota": 7.7,
+    "ano": "2022"
+  },
+  {
+    "titulo": "Viva: A Vida é uma Festa",
+    "sinopse": "Apesar da desconcertante proibição da música imposta pela sua família há várias gerações, Miguel sonha em tornar-se um músico de sucesso como o seu ídolo, Ernesto de la Cruz. Desesperado para provar o seu talento, Miguel encontra-se na deslumbrante e colorida Terra dos Mortos, seguindo uma misteriosa cadeia de acontecimentos. Pelo caminho, conhece o encantador Hector e, juntos, partem numa extraordinária viagem para desvendar a verdadeira história por detrás da história da família de Miguel.",
+    "generos": [
+      "Família",
+      "Animação",
+      "Música",
+      "Aventura"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+    "nota": 8.2,
+    "ano": "2017"
+  },
+  {
+    "titulo": "Como Ser Solteira",
+    "sinopse": "Alice (Dakota Johnson) acabou de sair de um relacionamento e não sabe muito bem como agir sem outra metade. Para sua sorte, ela tem uma animada amiga (Rebel Wilson) especialista na vida noturna de Nova York, que passa a ensiná-la como ser solteira. Adaptação do primeiro romance de Liz Tuccillo, \"How To Be Single\", lançado em 2008.",
+    "generos": [
+      "Comédia",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rZparClNSC5qI99PdauqEM9n8x4.jpg",
+    "nota": 6.3,
+    "ano": "2016"
+  },
+  {
+    "titulo": "Harry Potter e o Cálice de Fogo",
+    "sinopse": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa Mundial de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+    "nota": 7.8,
+    "ano": "2005"
+  },
+  {
+    "titulo": "Não Olhe para Cima",
+    "sinopse": "Dois astrônomos descobrem um cometa mortal vindo em direção à Terra e partem em um tour midiático para alertar a humanidade. Só que ninguém parece dar muita bola.",
+    "generos": [
+      "Comédia",
+      "Ficção científica",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+    "nota": 7.1,
+    "ano": "2021"
+  },
+  {
+    "titulo": "Invasão Zumbi",
+    "sinopse": "A Coreia do Sul decreta estado de emergência após um vírus desconhecido tomar conta do país. Algumas pessoas tentam fugir de zumbis e ficam presas em um trem-bala que está a caminho de Busan, a única cidade que não foi afetada pelo vírus.",
+    "generos": [
+      "Terror",
+      "Thriller",
+      "Ação",
+      "Aventura"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/QqHtwk0oHYed26zra9WGQGyBSm.jpg",
+    "nota": 7.7,
+    "ano": "2016"
+  },
+  {
+    "titulo": "O Predador",
+    "sinopse": "O major Alan \"Dutch\" Schaefer lidera uma equipe de resgate em uma selva da América Central, para tentar encontrar um ministro estrangeiro e funcionários do governo que saíram da rota e se perderam. O exército acredita que eles estejam nas mãos de guerrilheiros, mas o que eles não imaginam é que a floresta esconde uma ameaça mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Aventura",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3RuuLeX487syJrV1olkQCFbHrIv.jpg",
+    "nota": 7.5,
+    "ano": "1987"
+  },
+  {
+    "titulo": "Scarface",
+    "sinopse": "Após receber residência permanente nos Estados Unidos em troca do assassinato de um oficial do governo cubano, Tony Montana se torna o chefe do tráfico de drogas em Miami. Matando qualquer um que entre em seu caminho, Tony eventualmente se torna o maior traficante da Flórida, controlando quase toda a cocaína que entra em Miami. Porém, a pressão da polícia, as guerras com cartéis colombianos e sua própria paranoia servem para alimentar as chamas de sua eventual queda.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/b089YkBDJjOGDQxXkOXBR06Lz2Y.jpg",
+    "nota": 8.2,
+    "ano": "1983"
+  },
+  {
+    "titulo": "Sua Culpa",
+    "sinopse": "O amor entre Noah e Nick aparenta ser inabalável, apesar das tentativas de seus pais de separá-los. Mas o emprego dele, e a entrada dela na faculdade abrem suas vidas para novos relacionamentos. O retorno de uma ex-namorada vingativa e da mãe de Nick, com intenções obscuras, vão balançar não só o relacionamento deles, mas também de toda a família Leister. Quando tantas pessoas buscam destruir um relacionamento, será que ele consegue sobreviver?",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mdaODPyPbAwIeQwgBv7u8CMsxIl.jpg",
+    "nota": 7.1,
+    "ano": "2024"
+  },
+  {
+    "titulo": "It: A Coisa",
+    "sinopse": "Na cidade de Derry, no Maine, sete jovens se juntam para combater uma criatura sobrenatural que está assombrando a sua cidade por séculos. Chamado de Pennywise – O Palhaço Dançarino, a Coisa é um monstro de força absoluta que toma a forma dos medos mais horrorosos das pessoas. Ameaçados por seus piores pesadelos, a única maneira dos jovens amigos sobreviverem à Coisa é se continuarem juntos.",
+    "generos": [
+      "Terror",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
+    "nota": 7.2,
+    "ano": "2017"
+  },
+  {
+    "titulo": "Procurando Nemo",
+    "sinopse": "Nemo, um jovem peixe-palhaço aventureiro, é inesperadamente levado de sua casa na Grande Barreira de Corais para o aquário do consultório de um dentista. Cabe ao seu preocupado pai Marlin e à simpática mas esquecida peixe Dory trazer Nemo para casa - encontrando tubarões vegetarianos, tartarugas surfistas, medusas hipnóticas, gaivotas esfomeadas e muito mais pelo caminho.",
+    "generos": [
+      "Animação",
+      "Família",
+      "Aventura"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/djbivExXSZb0sTO8uYaaQC5vMRM.jpg",
+    "nota": 7.8,
+    "ano": "2003"
+  },
+  {
+    "titulo": "Até o Último Homem",
+    "sinopse": "Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.",
+    "generos": [
+      "Drama",
+      "História",
+      "Guerra"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mPnU3yKuZpmLjkVXGplhkpX31LY.jpg",
+    "nota": 8.2,
+    "ano": "2016"
+  },
+  {
+    "titulo": "A Meia-Irmã Feia",
+    "sinopse": "Elvira, meia-irmã de Cinderela, vive com a família em um poderoso reino onde poucas coisas são tão importantes quanto a beleza. Ela recorre a medidas extremas para cativar o príncipe, em meio a uma competição implacável pela perfeição física.",
+    "generos": [
+      "Terror",
+      "Comédia",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg",
+    "nota": 7.3,
+    "ano": "2025"
+  },
+  {
+    "titulo": "Homem-Aranha 3",
+    "sinopse": "O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5831VrgpYNPEokBwxurLVpQ3twM.jpg",
+    "nota": 6.5,
+    "ano": "2007"
   }
 ]
